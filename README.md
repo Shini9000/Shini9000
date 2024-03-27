@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Python, Java & C++**
 
+- 🐁 I'm working on **HWP and MallowsUniverse**
+
 - 🔭 I’m also working on **My own custom AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shini9000](https://github.com/Shini9000)
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Shini9000)
 
 - 💬 Ask me about **Python or Java(Spigot API)**
 
