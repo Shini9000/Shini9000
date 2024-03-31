@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [A password manager program](https://github.com/Shini9000/PasswordManagerProject)
 
-- 🌱 I’m currently learning **Python, Java & C++**
+- 🌱 I’m currently learning **Python, Java & Unity**
 
 - 🐁 I'm working on **HWP and MallowsUniverse**
 
-- 🔭 I’m also working on **My own custom AI**
+- 🔭 I just finished [**Unity cube project**](https://play.unity.com/mg/other/build-z9w)
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/Shini9000)
 
