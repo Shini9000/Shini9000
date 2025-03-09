@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shini</h1>
 <h3 align="center">A begginer developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on [A password manager program](https://github.com/Shini9000/PasswordManagerProject)
+- 🔭 I’m currently working on [Firefly](https://github.com/Shini9000/)
+- - Firefly is a spotify rating applicaton which takes your top rated songs and suggests similar songs/albums and artists
 
 - 🌱 I’m currently learning **Python, Java & Unity**
 
