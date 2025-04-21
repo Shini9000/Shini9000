@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shini</h1>
 <h3 align="center">A begginer developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on [Ember](https://github.com/Shini9000/)
+- 🔭 I’m currently working on [Ember](https://github.com/Shini9000/Ember)
 - - Ember is a application to compare game tags and genres to show a list of games you may possibly be interested in playing
   - with a x/x tag system and "played" "not played" marker. Find new games and rate them.
   - Eg: You like Openworld games, but dont like fps. You may be suggested Elder scrolls or Forza etc etc
