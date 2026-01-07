@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shini</h1>
 <h3 align="center">A begginer developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on [Ember](https://github.com/Shini9000/Ember)
-- - Ember is a application to compare game tags and genres to show a list of games you may possibly be interested in playing
-  - with a x/x tag system and "played" "not played" marker. Find new games and rate them.
-  - Eg: You like Openworld games, but dont like fps. You may be suggested Elder scrolls or Forza etc etc
+- 🔭 I’m currently working on [AoP (Ashes of Pestilence)](https://github.com/Shini9000/TextAdventureGame)
+- - AoP is a Java based Text adventure game. With a large storyline and a open world explore a world brought down by disease and plagues.
+  - From a medieval to high fantasy the world of AoP is heavily inspired by many fantasy worlds and creative flow.
+  - It is targeted at mature audience since it contains large amounts of violence and other mature topics. 
 
 - 🌱 I’m currently learning **Python, Java & Unity**
-
-- 🐁 I'm working on **HWP and MallowsUniverse**
-
-- 🔭 I just finished [**Unity cube project**](https://play.unity.com/mg/other/build-z9w)
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/Shini9000)
 
