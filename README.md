@@ -12,7 +12,10 @@
 
 - 💬 Ask me about **Python or Java(Spigot API)**
 
-- 📫 How to reach me **aidanchristie2232@gmail.com**
+- 📫 How to reach me
+- - **Discord: Shini9000**
+  - **Instagram: Aidanster**
+  - **linkedin: aidanchristie98**
 
 - ⚡ Fun fact **my real name is Aidan**
 
