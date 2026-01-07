@@ -17,7 +17,7 @@
   - **Instagram: Aidanster**
   - **linkedin: aidanchristie98**
 
-- ⚡ Fun fact **my real name is Aidan**
+- ⚡ Fun fact **Gentoo penguins can swim up to 22mph/36kmh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
