@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shini</h1>
 <h3 align="center">A begginer developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on [AoP (Ashes of Pestilence)](https://github.com/Shini9000/TextAdventureGame)
+- 🔭 I’m currently working on [AoP (Ashes of Pestilence)](https://github.com/Shini9000/AshesOfPestilence)
 - - AoP is a Java based Text adventure game. With a large storyline and a open world explore a world brought down by disease and plagues.
   - From a medieval to high fantasy the world of AoP is heavily inspired by many fantasy worlds and creative flow.
   - It is targeted at mature audience since it contains large amounts of violence and other mature topics. 
